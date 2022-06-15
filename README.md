@@ -1,1 +1,4 @@
-Unzip data.zip to access data used in this code
+To run
+- Replace parent_path in main.py with your path 
+- Unzip file in data folder
+
